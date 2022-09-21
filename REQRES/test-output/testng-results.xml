@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T20:45:31 PDT" name="Default suite" finished-at="2022-09-20T20:45:36 PDT" duration-ms="5429">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T20:45:31 PDT" name="Default test" finished-at="2022-09-20T20:45:36 PDT" duration-ms="5429">
+      <class name="com.PTG.Reqres.REQRES.TestUsersAPI">
+        <test-method signature="deleteUser()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:31 PDT" name="deleteUser" finished-at="2022-09-20T20:45:33 PDT" duration-ms="2310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method signature="getListResource()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:33 PDT" name="getListResource" finished-at="2022-09-20T20:45:34 PDT" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListResource -->
+        <test-method signature="getSingleUserNotfound()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:34 PDT" name="getSingleUserNotfound" finished-at="2022-09-20T20:45:34 PDT" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserNotfound -->
+        <test-method signature="postUser()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:34 PDT" name="postUser" finished-at="2022-09-20T20:45:35 PDT" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUser -->
+        <test-method signature="putUser()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:35 PDT" name="putUser" finished-at="2022-09-20T20:45:36 PDT" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putUser -->
+        <test-method signature="testSingleUser()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:36 PDT" name="testSingleUser" finished-at="2022-09-20T20:45:36 PDT" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleUser -->
+        <test-method signature="testUserDetails()[pri:0, instance:com.PTG.Reqres.REQRES.TestUsersAPI@46fa7c39]" started-at="2022-09-20T20:45:36 PDT" name="testUserDetails" finished-at="2022-09-20T20:45:36 PDT" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserDetails -->
+      </class> <!-- com.PTG.Reqres.REQRES.TestUsersAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
